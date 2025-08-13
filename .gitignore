@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Matlab / Simulink
+*.asv
+*.mex*
+slprj/
+sfprj/
+*.autosave
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Type checker caches
+.mypy_cache/
+**/.mypy_cache/
+
