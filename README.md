@@ -15,3 +15,11 @@ python nonconvex-sim/lidar_gp_cbf/sim2D_main.py
 Multi-agent deadlock resolution
 
 python multiagent-deadlock-sim/lidar_gp_cbf/sim2D_main.py
+
+Outputs & animations
+Generated media are saved under each module’s animation_result/ (tracked in Git).
+
+Re-running scripts may overwrite existing files.
+
+Contact
+Shaghayegh Keyumarsi — GitHub: sh-keyumarsi
