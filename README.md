@@ -12,6 +12,7 @@ How to run
 Nonconvex obstacle simulation
 
 python nonconvex-sim/lidar_gp_cbf/sim2D_main.py
+
 Multi-agent deadlock resolution
 
 python multiagent-deadlock-sim/lidar_gp_cbf/sim2D_main.py
