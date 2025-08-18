@@ -4,6 +4,7 @@ This repository provides a simulation reproducing the experiments from https://d
 # Circulation-Embedded CBF — Code & Simulations
 
 Simulation
+
 This repository includes a simulator that visualizes the robotic experiment as the code runs.
 When executed, the simulation window will open and display the robot’s behavior step by step.
 
