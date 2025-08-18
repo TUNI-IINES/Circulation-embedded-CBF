@@ -2,11 +2,12 @@
 This repository provides a simulation reproducing the experiments from https://doi.org/10.1016/j.robot.2025.105132, including the simulator, source code, and data.  Contains two scenarios, nonconvex obstacle avoidance and multi-agent deadlock resolution using IBCECBFQP, each runnable via lidar_gp_cbf/sim2D_main.
 
 # Circulation-Embedded CBF — Code & Simulations
+
+Simulation
 This repository includes a simulator that visualizes the robotic experiment as the code runs.
 When executed, the simulation window will open and display the robot’s behavior step by step.
 
 Code and simulation assets for the paper:
-Simulation
 > **Circulation-embedded CBF: A solution to avoid undesired equilibria and dysfunctional circulation**  
 > Shaghayegh Keyumarsi et al.
 
