@@ -1,9 +1,9 @@
-# Circulation-embedded-CBF-A-solution-to-avoid-undesired-equilibria-and-dysfunctional-circulation
+# Circulation-embedded Control Barrier Function for safe navigation: A solution to avoid undesired equilibria and dysfunctional circulation
 This repository provides a simulation reproducing the experiments from https://doi.org/10.1016/j.robot.2025.105132, including the simulator, source code, and data.  Contains two scenarios, nonconvex obstacle avoidance and multi-agent deadlock resolution using IBCECBFQP, each runnable via lidar_gp_cbf/sim2D_main.
 
 
 Code and simulation assets for the paper:
-> **Circulation-embedded CBF: A solution to avoid undesired equilibria and dysfunctional circulation**  
+> **Circulation-embedded Control Barrier Function for safe navigation: A solution to avoid undesired equilibria and dysfunctional circulation**  
 > Shaghayegh Keyumarsi et al.
 
 
